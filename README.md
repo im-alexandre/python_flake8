@@ -8,7 +8,6 @@
 
 ## Verificando se o projeto contem erros:
 <code>$ mypy main.py  
-
 $ flake8 main.py</code>
 
 ## configurando git sem senha:
