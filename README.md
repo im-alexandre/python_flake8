@@ -1,5 +1,5 @@
-## Instalação do flake8 e do mypy:##
-- <code> pip install flake8 mypy <code>
+## Instalação do flake8 e do mypy: ##
+<code> pip install flake8 mypy <code>
   
 ## Configuração do flake8-hook para git##
 *Essa configuração impede que o código fora do estilo seja commitado*
