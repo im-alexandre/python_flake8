@@ -7,7 +7,7 @@
 <code>$ git config --bool flake8.strict true </code>
 
 ## Verificando se o projeto contem erros:
-<code>$ mypy main.py  </br>
+<code>$ mypy main.py<br>
 $ flake8 main.py</code>
 
 ## configurando git sem senha:
