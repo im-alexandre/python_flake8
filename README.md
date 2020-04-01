@@ -3,7 +3,7 @@
 
 
 ## Configuração do flake8-hook para git
-*Essa configuração impede que o código fora do estilo seja commitado*
+*Essa configuração impede que o código fora do estilo seja commitado*  
 <code>$ git config --bool flake8.strict true </code>
 
 ## Verificando se o projeto contem erros:
