@@ -2,7 +2,7 @@ from fila_normal import FilaNormal
 from fila_prioritaria import FilaPrioritaria
 
 
-# fila_teste = filanormal()
+fila_teste = FilaNormal()
 # fila_teste.atualizafila()
 # fila_teste.atualizafila()
 # fila_teste.atualizafila()
